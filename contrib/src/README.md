@@ -1,4 +1,4 @@
-## Writing rules
+## Writing Rules
 
 At the bare minimum, a package in contrib must provide two Makefile
 targets in `src/foo/rules.mak`:
